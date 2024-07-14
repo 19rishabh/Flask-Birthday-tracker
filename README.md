@@ -1,2 +1,2 @@
 # Flask-Birthday-tracker
-Hosted on render
+Flask webapp hosted on render
